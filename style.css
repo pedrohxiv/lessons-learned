@@ -1,27 +1,33 @@
 body {
-    background-color: rgb(253, 251, 251);
-    font-family: sans-serif;
+  background-color: rgb(253, 251, 251);
+  font-family: sans-serif;
 }
 #cabecalho {
-    position: fixed;
-    top: 0;
-    background-color: green;
-    color: white;
-    width: 100%;
-    text-align: center;
-    margin-left: -8px;
+  position: fixed;
+  top: 0;
+  background-color: green;
+  color: white;
+  width: 100%;
+  text-align: center;
+  margin-left: -8px;
 }
-#minha_foto{
-    display: block;
-    margin: 100px auto 25px auto;
-    width: 180px;
-    border-radius: 50%;
+#minha_foto {
+  display: block;
+  margin: 100px auto 25px auto;
+  width: 180px;
+  border-radius: 50%;
 }
-h2{
-    text-align: center;
+h2 {
+  text-align: center;
 }
-#licoes_aprendidas{
-    width: 200px;
-    margin: 0 auto;
-    text-align: left;
+#lista_de_licoes {
+  text-align: center;
+}
+#licoes_aprendidas {
+  display: inline-block;
+  width: 130px;
+}
+#licoes_a_aprender {
+  display: inline-block;
+  width: 130px;
 }
