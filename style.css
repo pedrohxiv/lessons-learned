@@ -13,7 +13,7 @@ body {
 }
 #minha_foto {
   display: block;
-  margin: 100px auto 25px auto;
+  margin: 100px auto 10px auto;
   width: 180px;
   border-radius: 50%;
 }
@@ -31,12 +31,17 @@ h2 {
   display: inline-block;
   width: 130px;
 }
-#rodape{
-    text-align: center;
-    background-color: gray;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    border: 10px solid gray;
+#rodape {
+  text-align: center;
+  background-color: gray;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  border: 10px solid gray;
+}
+a {
+  display: block;
+  text-align: center;
+  margin: auto;
 }
