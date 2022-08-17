@@ -45,3 +45,7 @@ a {
   text-align: center;
   margin: auto;
 }
+article {
+  text-align: center;
+  margin: 30px 200px 60px;
+}
