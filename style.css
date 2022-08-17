@@ -17,3 +17,11 @@ body {
     width: 180px;
     border-radius: 50%;
 }
+h2{
+    text-align: center;
+}
+#licoes_aprendidas{
+    width: 200px;
+    margin: 0 auto;
+    text-align: left;
+}
