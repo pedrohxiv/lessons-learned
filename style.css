@@ -21,10 +21,11 @@ h2 {
   text-align: center;
   font-size: 30px;
 }
-main {
+.lado-esquerdo {
   text-align: center;
   display: inline-block;
   width: 70%;
+  float: left;
 }
 #licoes_aprendidas {
   display: inline-block;
@@ -56,7 +57,7 @@ article {
   margin: 30px 40px 60px;
   line-height: 25px;
 }
-aside {
+.lado-direito {
   display: inline-block;
   width: 30%;
   float: right;
