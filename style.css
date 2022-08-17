@@ -20,8 +20,10 @@ body {
 h2 {
   text-align: center;
 }
-#lista_de_licoes {
+main {
   text-align: center;
+  display: inline-block;
+  width: 70%;
 }
 #licoes_aprendidas {
   display: inline-block;
@@ -44,8 +46,17 @@ a {
   display: block;
   text-align: center;
   margin: auto;
+  padding-bottom: 20px;
+  border-bottom: 2px solid black;
+  text-decoration: none;
 }
 article {
   text-align: center;
-  margin: 30px 200px 60px;
+  margin: 30px 40px 60px;
+}
+aside {
+  display: inline-block;
+  width: 30%;
+  float: right;
+  text-align: center;
 }
