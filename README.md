@@ -1,6 +1,6 @@
 # Projeto Lições Aprendidas
 
-Neste projeto, você encontrará um website pessoal onde compartilho lições e aprendizados que adquiri durante minha jornada na Trybe. Este projeto é uma oportunidade para eu aplicar meus conhecimentos em desenvolvimento web, especialmente em HTML e CSS.
+Neste projeto, você encontrará um website pessoal onde compartilho lições e aprendizados que adquiri durante minha jornada na Trybe. Este projeto é uma oportunidade onde apliquei meus conhecimentos em desenvolvimento web, especialmente em HTML e CSS.
 
 ## O que foi desenvolvido
 
@@ -24,7 +24,7 @@ Fique à vontade para explorar o projeto e conhecer mais sobre minhas lições a
 
 ## Como usar
 
-Este projeto é uma página web estática e não requer nenhuma instalação. Você pode simplesmente acessá-lo em seu navegador.
+Este projeto é uma página web estática e não requer nenhuma instalação. Você pode simplesmente clonar o repositório e acessá-lo em seu navegador.
 
 ## Tecnologias Utilizadas
 
